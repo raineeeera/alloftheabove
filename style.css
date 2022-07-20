@@ -1,6 +1,6 @@
 @font-face {
     font-family: myFirstFont;
-    src: url(yomogi/fonts/otf/YomogiFont-Regular.otf);
+    src: url(/yomogi/fonts/otf/YomogiFont-Regular.otf);
   }
 @font-face {
     font-family: Overpass;
