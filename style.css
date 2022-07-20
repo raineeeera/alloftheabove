@@ -2,10 +2,12 @@
     font-family: myFirstFont;
     src: url(yomogi/fonts/otf/YomogiFont-Regular.otf);
   }
+  
 @font-face {
     font-family: Overpass;
-    src: url(/Resources/overpass-mono/overpass-mono-regular.otf);
+    src: url(Resources/overpass-mono/overpass-mono-regular.otf);
 }
+
 body{
     margin-left: 22%;
     margin-right: 22%;
