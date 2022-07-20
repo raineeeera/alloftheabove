@@ -1,0 +1,68 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(yomogi/fonts/otf/YomogiFont-Regular.otf);
+  }
+@font-face {
+    font-family: Overpass;
+    src: url(resources/overpass-mono/overpass-mono-regular.otf);
+}
+body{
+    margin-left: 22%;
+    margin-right: 22%;
+    padding:0px;
+    padding-top: 0%;
+    background-color: rgb(2, 3, 13);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#DBDBDBE3;
+    font-family: myFirstFont;
+    background-image: url();
+}
+main{
+    background-color: rgb(0, 0, 0);
+    padding:5%;
+}
+
+p{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-right: 10%;
+    zoom: 150%;
+}
+#title{
+    font-size: 125%;
+    padding:0px;
+    margin:0px;
+}
+a{
+    color:#db003a;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    zoom:130%;
+}
+hr{
+    background-color:#ffe8ee;
+    border-style:double;
+    border-width: 1px;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    padding: 0px;
+}
+h1{
+    margin-bottom: 3%;
+    margin-top: 3%;
+    color:#db003a;
+    font-size: 280%;
+    font-family: 'Rubik', sans-serif;
+    font-family: Overpass;
+    text-align: center;
+}
+img{
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+audio{
+    zoom: 70%;
+    margin:20px;
+    padding:0px;
+}
